@@ -3,7 +3,7 @@
 Administrative widget consolidating business, financial, service and support indicators for WHMCS.
 
 **Version:** 1.0.5 · **Date:** 2026-09-11 · **License:** MIT  
-**Target:** WHMCS 9.x, PHP 8.2/8.3, Blend admin theme. Live WHMCS validation is pending. The interface is Brazilian Portuguese.
+**Compatibility:** WHMCS 9.x, PHP 8.2/8.3, and Blend and Blend New admin themes. Version 1.0.5 was tested on a live WHMCS installation with both themes. The interface is Brazilian Portuguese.
 
 ## Installation
 

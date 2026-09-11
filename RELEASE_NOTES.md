@@ -16,4 +16,6 @@ Essas mudanças corrigem fragilidades da integração. Sem a resposta HTTP da in
 
 ## Validação
 
-59 verificações locais em PHP 8.3.6 passaram. Incluem identidade do widget, dados alterados entre duas coletas, renderização sem repetir API, mensagem de falha e ordem dos grupos. O adaptador de WHMCS é simulado, portanto o AJAX real continua pendente de homologação.
+59 verificações locais em PHP 8.3.6 passaram. Incluem identidade do widget, dados alterados entre duas coletas, renderização sem repetir API, mensagem de falha e ordem dos grupos.
+
+A versão 1.0.5 também foi testada em instalação WHMCS real com os temas administrativos **Blend** e **Blend New**, incluindo a integração do widget ao dashboard.

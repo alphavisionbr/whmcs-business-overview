@@ -3,7 +3,7 @@
 Widget administrativo para visão consolidada dos principais indicadores comerciais, financeiros, operacionais e de suporte do WHMCS.
 
 **Versão:** 1.0.5 · **Data:** 11/09/2026 · **Licença:** MIT  
-**Compatibilidade alvo:** WHMCS 9.x, PHP 8.2/8.3 e tema administrativo Blend. Homologação em ambiente real pendente.
+**Compatibilidade:** WHMCS 9.x, PHP 8.2/8.3 e temas administrativos Blend e Blend New. Versão 1.0.5 testada em instalação WHMCS real com ambos os temas.
 
 ## Instalação rápida
 
