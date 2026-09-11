@@ -1,0 +1,34 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "alphavision_whmcs_business_overview",
+  "license": "MIT",
+  "category": "utilities",
+  "description": {
+    "name": "Alphavision WHMCS Business Overview",
+    "tagline": "Indicadores do negócio no dashboard administrativo.",
+    "long": "Visão comercial, financeira, operacional e de suporte com permissões e personalização.",
+    "features": [
+      "24 indicadores selecionáveis",
+      "Classificação de serviços",
+      "Controle de valores financeiros",
+      "Suporte por departamento"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://alphavision.com.br/",
+    "learn_more": "https://alphavision.com.br/whmcs",
+    "email": "contato@alphavision.com.br",
+    "support_url": "https://alphavision.com.br/contato",
+    "docs_url": "https://alphavision.com.br/whmcs"
+  },
+  "authors": [
+    {
+      "name": "Alphavision®",
+      "homepage": "https://alphavision.com.br/"
+    }
+  ]
+}
